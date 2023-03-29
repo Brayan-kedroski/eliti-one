@@ -1,3 +1,6 @@
+ # link da documentação Google Drive
+  > - https://drive.google.com/drive/folders/1jyft_l15KN9HTWzvE4uWmzvg2E3d_Tq3
+ 
  # 21 de março de 2023
  > - Análise do requerimento do projeto;
  > - Criação de grupos(whatsapp), repositórios(guithub) e arquivos online, Decisão de ferramentas(drive,miro,trelo);
@@ -16,4 +19,10 @@
  > - Remap do UserFlow de acordo com as novas ideias;
  > - Levantamento de ideias para funçoes da aplicação;
  > - Redefinição do layout da aplicação.
+
+# 28 de março de 2023
+ > - Andamento do design da aplicação.
+
+# 29 de março de 2023
+ > - 
 
