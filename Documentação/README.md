@@ -24,5 +24,9 @@
  > - Andamento do design da aplicação.
 
 # 29 de março de 2023
- > - 
+ > - Conclusão do layout e design;
+ > - Inicialização dos códigos.
+
+# 30 de março de 2023
+ > - Andamento no código do projeto;
 

@@ -4,3 +4,10 @@
 .Motorola-One---Fusion4-rgba { color: rgba(12, 39, 63, 1); }
 .Motorola-One---Fusion5-rgba { color: rgba(79, 212, 242, 1); }
 
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
