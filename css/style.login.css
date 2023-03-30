@@ -1,6 +1,14 @@
-.Motorola-One---Fusion1-rgba { color: rgba(66, 32, 140, 1); }
-.Motorola-One---Fusion2-rgba { color: rgba(50, 32, 114, 1); }
-.Motorola-One---Fusion3-rgba { color: rgba(32, 34, 89, 1); }
-.Motorola-One---Fusion4-rgba { color: rgba(12, 39, 63, 1); }
-.Motorola-One---Fusion5-rgba { color: rgba(79, 212, 242, 1); }
+/* Color Theme Swatches in Hex */
+.Hogrene-1-hex { color: #192617; }
+.Hogrene-2-hex { color: #657346; }
+.Hogrene-3-hex { color: #99A66A; }
+.Hogrene-4-hex { color: #A1A67B; }
+.Hogrene-5-hex { color: #D9D9D9; }
+
+/* Color Theme Swatches in RGBA */
+.Hogrene-1-rgba { color: rgba(25, 38, 23, 1); }
+.Hogrene-2-rgba { color: rgba(101, 115, 70, 1); }
+.Hogrene-3-rgba { color: rgba(153, 166, 106, 1); }
+.Hogrene-4-rgba { color: rgba(161, 166, 123, 1); }
+.Hogrene-5-rgba { color: rgba(217, 217, 217, 1); }
 
