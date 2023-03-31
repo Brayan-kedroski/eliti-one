@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/style.login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
     <title>Document</title>
 </head>
 <body>
@@ -13,14 +14,19 @@
             <h1>LOGIN</h1>
             <div class="login">
                 <input type="text" placeholder="Email" >
-                <input type="text" placeholder="Senha">
-                <button>Entrar</button>
+                <input id="senha" type="password" placeholder="Senha">
+                <div class="div-btn">
+                    <button id="button1" class="btn1">
+                        <i id="icone-1" class="far fa-eye-slash"></i>
+                    </button>
+                </div>
+                <button id="button2" class="btn2">Entrar</button>
             </div>
         </div>
     </section>
     <footer>
         <p>&copy; João&BrayanSystems</p>
     </footer>
-    <script src="login.js"></script>
+    <script src="/js/login.js"></script>
 </body>
 </html>
