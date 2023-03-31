@@ -4,10 +4,3 @@
     box-sizing: border-box;
    
 }
- table{
-    height: 100vh;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    background-color: aqua;
-}
