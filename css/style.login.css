@@ -1,14 +1,105 @@
-/* Color Theme Swatches in Hex */
-.Hogrene-1-hex { color: #192617; }
-.Hogrene-2-hex { color: #657346; }
-.Hogrene-3-hex { color: #99A66A; }
-.Hogrene-4-hex { color: #A1A67B; }
-.Hogrene-5-hex { color: #D9D9D9; }
 
-/* Color Theme Swatches in RGBA */
-.Hogrene-1-rgba { color: rgba(25, 38, 23, 1); }
-.Hogrene-2-rgba { color: rgba(101, 115, 70, 1); }
-.Hogrene-3-rgba { color: rgba(153, 166, 106, 1); }
-.Hogrene-4-rgba { color: rgba(161, 166, 123, 1); }
-.Hogrene-5-rgba { color: rgba(217, 217, 217, 1); }
+  @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Genos:wght@100&family=Gruppo&family=Press+Start+2P&family=Six+Caps&display=swap');
 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(90deg,  #195241,#407867,#195241  );
+    min-height: 100vh;
+}
+section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 75vh;
+    width: 37%;
+    margin-top: 5%;
+    padding: 15px;
+}
+.tudo h1 {
+    font-size: 40px;
+    font-family: 'Gruppo', cursive;
+    -webkit-text-stroke: 1px;
+    letter-spacing: 7px;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 55vh;
+    width: 80%;
+    padding-top: 7%;
+    margin-top: 5%;
+    background: #8bffcb80;
+    border-radius: 10px;
+    box-shadow: 1px 10px 20px 10px rgba(0, 0, 0, 0.445);
+}
+.div-btn {
+    display: flex;
+    justify-content: end;
+    align-items: flex-start;
+    height: 3vh;
+    width: 85%;
+}
+.div-btn button {
+    width: 10%;
+    height: 5vh;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.login input {
+    width: 85%;
+    height: 5vh;
+    margin-top: 5%;
+    border-radius: 6px;
+    padding: 5px;
+    border: solid 2.5px #145623;
+    box-shadow: 2px 2px 15px 1px rgba(0, 0, 0, 0.387);
+    font-family: 'Gruppo';
+    -webkit-text-stroke: 1px;
+    font-size: 20px;
+}
+.btn2 {
+    margin-top: 20%;
+    height: 6vh;
+    width: 50%;
+    font-size: 18px;
+    border-radius: 6px;
+    border: solid 2.5px #009c25;
+    background: #1A6213;
+    color: white;
+    font-family: 'Gruppo';
+    -webkit-text-stroke: 1px;
+    letter-spacing: 1.7px;
+    cursor: pointer;
+    box-shadow: 2px 2px 15px 1px rgba(0, 0, 0, 0.509);
+    transition: 0.5s;
+}
+.btn2:hover{
+    border: solid 2.5px #1AFF13;
+    color: #1AFF13;
+    background: #009c25;
+    transition: 0.5s;
+    box-shadow: 2px 2px 15px 1px rgba(255, 255, 255, 0.648)
+}
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
